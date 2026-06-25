@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <defs>
+    <radialGradient id="bg" cx="88%" cy="6%" r="70%">
+      <stop offset="0%" stop-color="#f0fdfa"/>
+      <stop offset="60%" stop-color="#ffffff"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(90,150)">
+    <g>
+      <path d="M40 0C18 26 6 40 6 56a34 34 0 0 0 68 0C74 40 62 26 40 0Z" fill="#0d9488"/>
+      <circle cx="28" cy="52" r="10" fill="#ffffff" opacity="0.85"/>
+    </g>
+    <text x="96" y="58" font-family="'Plus Jakarta Sans',sans-serif" font-size="64" font-weight="800" fill="#0f172a">Klaro</text>
+  </g>
+  <text x="90" y="350" font-family="'Plus Jakarta Sans',sans-serif" font-size="62" font-weight="800" fill="#0f172a">Policz koszt sprzątania</text>
+  <text x="90" y="424" font-family="'Plus Jakarta Sans',sans-serif" font-size="62" font-weight="800" fill="#0d9488">w 30 sekund</text>
+  <text x="90" y="500" font-family="'Plus Jakarta Sans',sans-serif" font-size="30" font-weight="500" fill="#334155">Sprzątanie mieszkań i biur w Warszawie. Wycena online, płatność po usłudze.</text>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helban.github.io/quote-calculator-landing/sitemap.xml
